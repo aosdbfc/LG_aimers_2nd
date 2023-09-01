@@ -8,6 +8,7 @@ LG aimers 2기 프로젝트 정리
 ### optuna
 - from optuna import Trial
 - from optuna.samplers import TPESampler
+### 평가지표 MSE 
 - from sklearn.model_selection import train_test_split
 - from sklearn.metrics import mean_squared_error 
   
